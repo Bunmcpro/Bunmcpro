@@ -1,17 +1,10 @@
 <div align="center">
 
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=👋+Hello!+I'm+Tuấn+Anh;🚀+Designer+%7C+Developer;🌟+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=👋+Xin+chào!+Tôi+là+Tuấn+Anh;🚀+Designer+%7C+Developer;🇻🇳+Việt+Nam+on+TOPPP;🌟+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <!-- Animated Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tuấn%20Anh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-
-</div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=tuananh&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -69,27 +62,71 @@ const TuanAnh = {
 
 ---
 
-## 📊 GitHub Stats
+## 💎 Triết Lý Việt Nam
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuananh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tuananh&theme=tokyonight&hide_border=true&background=0D1117&stroke=A9FEF7&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7" />
+<!-- Animated Quote Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌸+Có+chí+thì+nên;💪+Không+có+gì+là+không+thể" alt="Quote 1" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=FFFFFF" />
+<br><br>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tuananh&custom_title=Tuấn%20Anh's%20Activity%20Graph&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area_color=A9FEF7&area=true&hide_border=true" width="98%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Học+học+nữa%2C+học+mãi;📚+Sống+là+để+học+hỏi" alt="Quote 2" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFE66D&center=true&vCenter=true&multiline=true&width=800&height=100&lines=⭐+Tài+năng+không+chờ+đợi;🔥+Hành+động+tạo+nên+thành+công" alt="Quote 3" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A8E6CF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🇻🇳+Tự+hào+dân+tộc+Việt+Nam;💚+Việt+Nam+on+TOPPP" alt="Quote 4" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF9FF3&center=true&vCenter=true&multiline=true&width=800&height=100&lines=✨+Sáng+tạo+không+giới+hạn;🎨+Thiết+kế+là+đam+mê" alt="Quote 5" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎨 Design Philosophy
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=tuananh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+> ### 🌸 *"Thiết kế không chỉ là hình thức"*
+> ### 💫 *"Mà là cách nó hoạt động"*
+> ### 🚀 *"Code với đam mê, tạo với trái tim"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br><br>
+
+### 🌈 Colorful Vietnamese Wisdom
+
+<table>
+<tr>
+<td align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=F72585&center=true&vCenter=true&width=300&lines=💪+Chăm+chỉ+vượt+tài+năng" />
+</td>
+<td align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=7209B7&center=true&vCenter=true&width=300&lines=🌟+Sáng+tạo+mỗi+ngày" />
+</td>
+<td align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=3A0CA3&center=true&vCenter=true&width=300&lines=🎯+Tập+trung+thành+công" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=4361EE&center=true&vCenter=true&width=300&lines=💡+Học+hỏi+bất+tận" />
+</td>
+<td align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=4CC9F0&center=true&vCenter=true&width=300&lines=🇻🇳+Việt+Nam+vươn+cao" />
+</td>
+<td align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=06FFA5&center=true&vCenter=true&width=300&lines=✨+Đam+mê+coding" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -121,79 +158,8 @@ const TuanAnh = {
 
 ---
 
-## 🎨 Design Philosophy
-
-<div align="center">
-
-> *"Design is not just what it looks like and feels like.*  
-> *Design is how it works."*  
-> — Steve Jobs
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
----
-
-## 💼 What I Do
-
-<div align="center">
-
-| 🎨 Design | 💻 Development | 🚀 Innovation |
-|:---:|:---:|:---:|
-| Creating stunning UI/UX | Building web applications | Exploring new technologies |
-| Brand identity design | Responsive web design | Creative problem solving |
-| Digital illustrations | Full-stack development | Continuous learning |
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-<!-- Add your projects here -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuananh&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=FFFFFF" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuananh&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=FFFFFF" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuananh&theme=tokyonight" width="98%" />
-
-</div>
-
----
-
-## ✨ Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-![snake gif](https://github.com/tuananh/tuananh/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<!-- Alternative Snake Animation -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
